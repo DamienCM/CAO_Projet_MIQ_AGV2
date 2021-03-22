@@ -1,0 +1,26 @@
+﻿             Nom du modèle             
+---------------------------------------
+ MAIN_ASSEMBLY.ASM                     
+   PROFILE_RACCORD_ROUE_FOLLE_SKEL.PRT 
+   PRO_VERTIC_SKEL.PRT                 
+   PLAQUE_CHASSIS_SKEL.PRT             
+   ROUE_MOT_SKEL.PRT                   
+   CHASSIS_SKEL.PRT                    
+   ACS0                                
+   asm_cog                             
+   ASM_FRONT                           
+   ASM_TOP                             
+   ASM_RIGHT                           
+   ASM_CSYS                            
+   PLAQUE_PLATEAU_ASSEMBLY.ASM         
+   CHASSIS_ASSEMBLY.ASM                
+   PROFILE_RACCORD_ASSEMBLY.ASM        
+   PROFILE_ALU_ASSEMBLY.ASM            
+   ETAGE_LIDAR_ASSEMBLY.ASM            
+   PLAQUE_CHASSIS_ASSEMBLY.ASM         
+   Insérer ici                         
+   Sections                            
+     A                                 
+     B                                 
+     C                                 
+   Pied de page                        
