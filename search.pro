@@ -6,6 +6,7 @@ etage_plateau
 notebooks
 profiles_et_connecteurs
 roue_folle
+roulements_et_arrets
 rpi
 skeletons
 stl
@@ -35,6 +36,7 @@ uncategorized
 .git\objects\0d
 .git\objects\0f
 .git\objects\10
+.git\objects\11
 .git\objects\12
 .git\objects\13
 .git\objects\14
@@ -50,6 +52,7 @@ uncategorized
 .git\objects\1f
 .git\objects\21
 .git\objects\22
+.git\objects\24
 .git\objects\25
 .git\objects\26
 .git\objects\27
@@ -103,6 +106,7 @@ uncategorized
 .git\objects\62
 .git\objects\63
 .git\objects\64
+.git\objects\65
 .git\objects\66
 .git\objects\67
 .git\objects\68
@@ -238,6 +242,7 @@ uncategorized
 .git\objects\fc
 .git\objects\fd
 .git\objects\fe
+.git\objects\ff
 .git\objects\info
 .git\objects\pack
 .git\refs\heads
