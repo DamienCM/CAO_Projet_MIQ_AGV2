@@ -1,12 +1,13 @@
 .git
 chassis
+compact_rio
 etage_elec
 etage_lidar
 etage_plateau
+moteurs
 notebooks
 profiles_et_connecteurs
 roue_folle
-roulements_et_arrets
 rpi
 skeletons
 stl
@@ -32,6 +33,7 @@ uncategorized
 .git\objects\08
 .git\objects\09
 .git\objects\0a
+.git\objects\0b
 .git\objects\0c
 .git\objects\0d
 .git\objects\0f
@@ -79,6 +81,7 @@ uncategorized
 .git\objects\41
 .git\objects\42
 .git\objects\43
+.git\objects\44
 .git\objects\45
 .git\objects\46
 .git\objects\47
@@ -87,7 +90,9 @@ uncategorized
 .git\objects\4a
 .git\objects\4b
 .git\objects\4c
+.git\objects\4d
 .git\objects\4e
+.git\objects\50
 .git\objects\51
 .git\objects\53
 .git\objects\54
@@ -164,6 +169,7 @@ uncategorized
 .git\objects\a4
 .git\objects\a5
 .git\objects\a6
+.git\objects\a7
 .git\objects\a9
 .git\objects\aa
 .git\objects\ab
@@ -202,6 +208,7 @@ uncategorized
 .git\objects\ce
 .git\objects\d2
 .git\objects\d3
+.git\objects\d4
 .git\objects\d5
 .git\objects\d6
 .git\objects\d7
